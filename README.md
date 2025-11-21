@@ -1,33 +1,74 @@
-# آبی‌نما | Blue Nama
 
+# 💙 **آبی‌نما | Blue Nama**
 
-**نمایش داینامیک هر صفحه وردپرس فقط با یک شورت‌کد ساده**  
-تولید شده توسط [آبی‌ترین ماه](https://bluestmoon.ir) • توسعه توسط [shayandvlpr](https://shayandvlpr.ir)
+<p align="center">
+  <img src="https://img.shields.io/badge/Blue%20Nama-Plugin-0066ff?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
-[![Latest Release](https://img.shields.io/github/v/release/Shayanpouryazdan/Blue-Nama?color=0066ff&label=Blue%20Nama&logo=github&style=flat-square)](https://github.com/Shayanpouryazdan/Blue-Nama/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Shayanpouryazdan/Blue-Nama/total?color=00aaff&style=flat-square)](https://github.com/Shayanpouryazdan/Blue-Nama/releases)
-[![PHP](https://img.shields.io/badge/PHP-%3E=7.4-7963a7.svg?style=flat-square)](https://php.net)
-[![WordPress](https://img.shields.io/badge/WordPress-%3E=6.0-2271b1.svg?style=flat-square)](https://wordpress.org)
-[![License](https://img.shields.io/badge/License-GPL%20v2%2B-brightgreen.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-2.0.html)
+<p align="center">
+  <b>نمایش هر صفحه فقط با یک شورت‌کد — سریع، سبک و تمام‌آبی!</b><br>
+  توسعه داده شده توسط <a href="https://shayandvlpr.ir">shayandvlpr</a> • طراحی و ایده از <a href="https://bluestmoon.ir">آبی‌ترین ماه</a>
+</p>
 
-> **نسخه فعلی: 1.1.0** — آپدیت خودکار از گیت‌هاب
+---
 
-## ویژگی‌ها
+<p align="center">
 
-- نمایش کامل محتوای هر صفحه با شورت‌کد `[blue_nama id="123"]`
-- پنل مدیریت تماماً فارسی با طراحی آبی و مینیمال
-- دکمه کپی شورت‌کد با یک کلیک و انیمیشن
-- کاملاً RTL و سازگار با همه قالب‌های فارسی
-- آپدیت خودکار مستقیم از گیت‌هاب
-- بدون تبلیغات، بدون جمع‌آوری داده، ۱۰۰٪ رایگان و متن‌باز
+<a href="https://github.com/Shayanpouryazdan/Blue-Nama/releases/latest">
+  <img src="https://img.shields.io/badge/Version-1.1.0-0066ff?style=flat-square&logo=wordpress" />
+</a>
 
-## نصب
+<a href="https://github.com/Shayanpouryazdan/Blue-Nama/releases">
+  <img src="https://img.shields.io/github/downloads/Shayanpouryazdan/Blue-Nama/total?color=00aaff&style=flat-square" />
+</a>
 
-1. فایل zip رو از [آخرین نسخه](https://github.com/Shayanpouryazdan/Blue-Nama/releases/latest/download/blue-nama.zip) دانلود کن
-2. تو پیشخوان وردپرس → افزونه‌ها → بارگذاری افزونه → نصب کن
+<a href="https://php.net">
+  <img src="https://img.shields.io/badge/PHP-≥7.4-7963a7.svg?style=flat-square" />
+</a>
+
+<a href="https://wordpress.org">
+  <img src="https://img.shields.io/badge/WordPress-≥6.0-2271b1.svg?style=flat-square" />
+</a>
+
+<a href="LICENSE">
+  <img src="https://img.shields.io/badge/License-GPL%20v2%2B-brightgreen.svg?style=flat-square" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>آپدیت خودکار از گیت‌هاب • بدون مخزن وردپرس • ۱۰۰٪ رایگان و اوپن‌سورس</b>
+</p>
+
+---
+
+## 🚀 ویژگی‌های خفن
+
+* شورت‌کد ساده: `[blue_nama id="123"]`
+* پنل مدیریت تمام فارسی با طراحی آبی
+* دکمه کپی شورت‌کد با انیمیشن
+* کاملاً RTL و سازگار با همه قالب‌ها
+* آپدیت خودکار از گیت‌هاب
+* بدون تبلیغات، بدون داده‌کاوی، بدون مزاحمت
+
+---
+
+## ⚡ نصب در ۳۰ ثانیه
+
+1. از [اینجا دانلود کن](https://github.com/Shayanpouryazdan/Blue-Nama/releases/latest/download/blue-nama.zip)
+2. پیشخوان → افزونه‌ها → بارگذاری افزونه → نصب
 3. فعالش کن
-4. برو به **برگه‌ها → آبی‌نما** و صفحات مورد نظرت رو فعال کن
+4. برو به **برگه‌ها → آبی‌نما** و صفحاتت رو تیک بزن
 
-## نحوه استفاده
+---
 
-```[blue_nama id="123"]
+## 🎯 نحوه استفاده (خیلی ساده!)
+
+فقط کافیه شورت‌کد تولیدی رو مثل زیر هرجایی که خواستی قرار بدی:
+
+```plaintext
+[blue_nama id="123"]
+```
+
