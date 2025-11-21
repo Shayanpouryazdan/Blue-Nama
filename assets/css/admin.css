@@ -1,0 +1,124 @@
+.blue-nama-wrap {
+    max-width: 1000px;
+    margin: 30px 20px 0 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.big-white-bold {
+  color: #ffffff;
+  font-weight: 900;           /* بیشترین وزن استاندارد */
+  font-size: 48px;            /* اندازه قابل تغییر */
+  line-height: 1.05;
+  font-family: "Vazirmatn", "Inter", system-ui, sans-serif;
+  letter-spacing: 0.2px;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+}
+.blue-header {
+    background: linear-gradient(135deg, #0066ff, #00aaff);
+    color: white;
+    padding: 30px 30px;
+    border-radius: 12px 12px 0 0;
+    margin-bottom: 0;
+    box-shadow: 0 4px 15px rgba(0,102,255,0.3);
+}
+
+.blue-header h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.blue-header p {
+    margin: 8px 0 0;
+    opacity: 0.95;
+    font-size: 16px;
+}
+
+.blue-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-top: none;
+    border-radius: 0 0 12px 12px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
+
+.table-header {
+    padding: 20px;
+    background: #f8f9fa;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table-header label {
+    font-weight: 600;
+    color: #2271b1;
+}
+
+.wp-list-table {
+    margin: 0 !important;
+}
+
+.shortcode-code {
+    background: #f0f8ff;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-family: Consolas, monospace;
+    font-size: 14px;
+    color: #0066ff;
+}
+
+.copy-btn {
+    margin-right: 10px;
+    background: #0066ff;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+.copy-btn:hover {
+    background: #0052cc;
+}
+
+.copy-btn.copied {
+    background: #28a745;
+}
+
+/* فوتِر زیبا */
+.blue-footer {
+    margin-top: 40px;
+    padding: 25px 30px;
+    background: #f8f9fa;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color: #555;
+    flex-wrap: wrap;
+}
+
+.blue-footer a {
+    color: #0066ff;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.blue-footer a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 782px) {
+    .blue-footer {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+}
